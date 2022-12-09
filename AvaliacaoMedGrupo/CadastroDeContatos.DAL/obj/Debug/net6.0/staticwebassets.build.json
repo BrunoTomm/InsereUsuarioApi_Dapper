@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "r799GX3STjBfUKGsqn7wihwulmImQcRMUJB9iOKt/9w=",
+  "Source": "CadastroDeContatos.DAL",
+  "BasePath": "_content/CadastroDeContatos.DAL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\bruno\\OneDrive\\Área de Trabalho\\Avaliacao_MedGrupo\\AvaliacaoMedGrupo\\CadastroDeContatos.Domain\\CadastroDeContatos.Domain.csproj",
+      "Version": 2,
+      "Source": "CadastroDeContatos.Domain",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

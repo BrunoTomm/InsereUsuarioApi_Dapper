@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y+2affqaQEhD4WKqp2fjXa1YYuznXPMquToAwp+9YKY0gKbHIZy5SeVUpFfIzFKcPq56NlR9KjKz+yg2EmO8Vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bruno\\OneDrive\\Área de Trabalho\\AvaliacaoMedGrupo\\AvaliacaoMedGrupo\\CadastroDeContatosDomain\\CadastroDeContatosDomain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
+  ],
+  "logs": []
+}
